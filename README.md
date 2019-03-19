@@ -1,4 +1,4 @@
-# Machine-Learning-Estimate-House-Price-Simple-Linear-Regression
+# Machine Learning Estimate House Price Simple Linear Regression
 
 In this project we will try to estimate the prices that variable by square meters.
 
