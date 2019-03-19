@@ -12,7 +12,7 @@ matplotlib.pyplot
 
 numpy as np  
 
-#to open csv and seperate column which you want  
+> to open csv and seperate column which you want  
 
 pandas as pd
 
